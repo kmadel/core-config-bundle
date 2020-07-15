@@ -1,4 +1,5 @@
 id: "workshop-bundle"
+apiVersion: "1"
 version: "1"
 description: "A configuration bundle for workshop setup"
 plugins:
